@@ -1,0 +1,5 @@
+# Optional override. Without --config, the application uses the same defaults.
+[audio]
+sample_rate = 48000
+channels = 2
+block_frames = 1024
